@@ -1,1 +1,2 @@
 ---
+apache::install_ensure : 'present'
